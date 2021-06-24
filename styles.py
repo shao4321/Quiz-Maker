@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter.ttk import *
 
-
 MAIN_THEME = 'radiance'
 character_limit_red = "#ff0000"
 character_limit_yellow = '#b3b300'
@@ -9,7 +8,6 @@ character_limit_green = '#009900'
 t_ent_font = ('Helvetica', 13)
 treeview_even_row = '#99ccff'
 treeview_odd_row = '#ffffff'
-
 
 def style_widget(root):
     style = Style(root)

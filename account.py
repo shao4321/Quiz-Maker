@@ -4,7 +4,7 @@ from tkinter import messagebox
 from ttkthemes import themed_tk as tk
 import sqlite3
 import qns
-import login
+import app
 import styles
 import pickQn
 
@@ -20,7 +20,7 @@ def on_quit(page):
 
 def log_out(root):
     root.destroy()
-    login.main()
+    app.main()
     return 'break'
 
 
