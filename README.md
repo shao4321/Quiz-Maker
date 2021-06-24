@@ -18,23 +18,25 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-> This version of quiz maker allows one to register an account, set up questions, edit questions, retrieve question.
+> A GUI application of quiz maker that allows one to register an account, set up questions, edit questions, retrieve question.
 
 > It supports users of different access levels which allows some to access a certain functions.
 
 > Questions done are recorded into the database with their scores and date completed, they can track the questions they got correct/wrong as well
 
-### Challenges
-
 ### Improvements
+
+1. Aesthetics and design of the app
+2. Make the app become live of which users can login simultaenously and sync all contents with one another.
 
 ### Technologies
 
-> SASS has provided me with easy styling syntax and functions with the use of nesting and mixins.
+1. Tkinter
+2. SQLite
 
-> Some components on the website are built by Material-UI. These components has certain CSS properties that supports modern web browser styles.
+> Before I started branching into web development, this was an amazing technology for me to build my first application due to Python being my first programming language. Tkinter does not have a steep learning curve and provides me with an essential skillset to build an application.
 
-> Ever since I have started on React, I feel that this is an essentially frontend web framework that I have to master.
+> As I needed a database to manage and store quite a few files of data, SQLite being a compact library has enough space for it.
 
 [Back To The Top](#top)
 
