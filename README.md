@@ -1,6 +1,6 @@
 <h1 align="center" id="top">Welcome to Quiz Maker 👋</h1>
 
-![QuizMaker Image](https://i.ibb.co/SsR3pzM/quizmaker.png)
+![QuizMaker Image](https://i.ibb.co/gr1Synx/quizmaker.png)
 
 ### 🏠 [Download App Zip File](https://github.com/shao4321/Quiz-Maker/archive/refs/heads/main.zip)
 
@@ -62,6 +62,8 @@ python app.py
 1. Download ZIP file
 2. Open app.exe
 ```
+
+`Demo Account Login ID and PW: admin`
 
 [Back To The Top](#top)
 
